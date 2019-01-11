@@ -1,0 +1,19 @@
+C:/Users/502712097/Desktop/CIT 143/GUIAddressBook/GUIAddressBook/bin/Debug/GUIAddressBook.exe.config
+C:/Users/502712097/Desktop/CIT 143/GUIAddressBook/GUIAddressBook/obj/Debug/GUIAddressBook.csprojResolveAssemblyReference.cache
+C:/Users/502712097/Desktop/CIT 143/GUIAddressBook/GUIAddressBook/obj/Debug/GUIAddressBook.Form1.resources
+C:/Users/502712097/Desktop/CIT 143/GUIAddressBook/GUIAddressBook/obj/Debug/GUIAddressBook.Properties.Resources.resources
+C:/Users/502712097/Desktop/CIT 143/GUIAddressBook/GUIAddressBook/obj/Debug/GUIAddressBook.csproj.GenerateResource.Cache
+C:/Users/502712097/Desktop/CIT 143/GUIAddressBook/GUIAddressBook/bin/Debug/GUIAddressBook.exe
+C:/Users/502712097/Desktop/CIT 143/GUIAddressBook/GUIAddressBook/bin/Debug/GUIAddressBook.pdb
+C:/Users/502712097/Desktop/CIT 143/GUIAddressBook/GUIAddressBook/obj/Debug/GUIAddressBook.exe
+C:/Users/502712097/Desktop/CIT 143/GUIAddressBook/GUIAddressBook/obj/Debug/GUIAddressBook.pdb
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/GUIAddressBook/GUIAddressBook/bin/Debug/GUIAddressBook.exe.config
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/GUIAddressBook/GUIAddressBook/bin/Debug/GUIAddressBook.exe
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/GUIAddressBook/GUIAddressBook/bin/Debug/GUIAddressBook.pdb
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/GUIAddressBook/GUIAddressBook/obj/Debug/GUIAddressBook.csprojAssemblyReference.cache
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/GUIAddressBook/GUIAddressBook/obj/Debug/GUIAddressBook.Form1.resources
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/GUIAddressBook/GUIAddressBook/obj/Debug/GUIAddressBook.Properties.Resources.resources
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/GUIAddressBook/GUIAddressBook/obj/Debug/GUIAddressBook.csproj.GenerateResource.cache
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/GUIAddressBook/GUIAddressBook/obj/Debug/GUIAddressBook.csproj.CoreCompileInputs.cache
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/GUIAddressBook/GUIAddressBook/obj/Debug/GUIAddressBook.exe
+/Users/anthonysego/Desktop/Programming, school work & certs/C#/GUIAddressBook/GUIAddressBook/obj/Debug/GUIAddressBook.pdb
